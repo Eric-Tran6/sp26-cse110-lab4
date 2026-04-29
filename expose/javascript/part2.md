@@ -26,7 +26,7 @@
     D. student['Favorite Teacher'].name
     E. student.courseLoad[0]
 
-13. A. '3' + 2 = '32'. '2+ with a string concatenates, so 2 is converted to '2' and joined with '3'.
+13. A. '3' + 2 = '32'. + with a string concatenates, so 2 is converted to '2' and joined with '3'.
     B. '3' - 2 = 1. - converts the string '3' to a number and subtracts.
     C. 3 + null = 3. null converts to 0 in numeric operations.
     D. '3' + null = '3null'. + with a string converts null to 'null' and concatenates.
